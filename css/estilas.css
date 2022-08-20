@@ -3,5 +3,17 @@ body
     color:darkmagenta;
     text-align: center;
     font-family: "Arial";
+}
+#container
+{
+    width: 70%;
+    padding: lem;
+    text-align: left;
+    border: lpx solid #DDD
+    margub 0 auto;
+}
 
+#container h1
+{
+    font-size: 20px;
 }
