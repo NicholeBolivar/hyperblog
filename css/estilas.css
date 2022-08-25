@@ -1,12 +1,15 @@
 body 
 {
-    color:blue;
+    color: blue;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
+
+
+
 
 #cabecera #tagline
 {
@@ -33,3 +36,4 @@ body
 {
     font-size: 20px;
 }
+
