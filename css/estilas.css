@@ -1,16 +1,19 @@
 body 
 {
-<<<<<<< HEAD
-    color:blue;
-=======
     color: blue;
->>>>>>> cabecera
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
 
 #cabecera #tagline
 {
@@ -37,3 +40,12 @@ body
 {
     font-size: 20px;
 }
+
+<<<<<<< HEAD
+=======
+#post
+{
+    background: white;
+    padding: 1em;
+}
+>>>>>>> header
